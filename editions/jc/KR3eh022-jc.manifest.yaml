@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eh022_000-jc.yaml, hash: 'sha256:181a6aef43a3825eb758562849f59eee36403eadc599bf8d5f51ad475cb0d752'}
+  - {seq: 0, filename: KR3eh022_000-jc.yaml, hash: 'sha256:26bd5d855938838610cfbc780799f12e6bce45b92689b9bc83647bb0bb987f85'}
   - {seq: 1, filename: KR3eh022_001-jc.yaml, hash: 'sha256:b5a2415b1deb438a322625c8b95cbb3017b4cd83341f92569bb0a8c36e3201b1'}
   - {seq: 2, filename: KR3eh022_002-jc.yaml, hash: 'sha256:f98ec9ceda527651920cf16452ec71748ab0813b41d65b6a1468c77b5c53a010'}
   - {seq: 3, filename: KR3eh022_003-jc.yaml, hash: 'sha256:bcd1414b7f02884d51e84e8deefc0fd8905c0dfdf5bffa4122180332f6f10aa2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh022_000-jc.markers.yaml, hash: 'sha256:35246d58a520e78853cc817dde3ebf25324d6e265d17a1e4cbc96a4e86373220'}
+  - {seq: 0, role: markers, filename: assets/KR3eh022_000-jc.markers.yaml, hash: 'sha256:8c988106932f7f026ef8a927c489cb8dce5165d0cc813cdf8aca50c4dfc078bf'}
   - {seq: 1, role: markers, filename: assets/KR3eh022_001-jc.markers.yaml, hash: 'sha256:79583b4d29937e806244058842353d066aefbd47a89175ec95bfec1ec6f02dd5'}
   - {seq: 2, role: markers, filename: assets/KR3eh022_002-jc.markers.yaml, hash: 'sha256:1dc5b962f272fef09f2b45f7d3f19337beabc141a403097cd6cf35c011c20b05'}
   - {seq: 3, role: markers, filename: assets/KR3eh022_003-jc.markers.yaml, hash: 'sha256:bf1a6d4e8fe5faffccae4b375ffe5dfabe2b02d8d87d908ae96aff47f9a22f5a'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh022_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 442
   label: 吳序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh022_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 442
     - 723
   label: 張序
@@ -1627,4 +1627,4 @@ table_of_contents:
   label: 附諸方
   type: section
   level: 2
-hash: sha256:aef6c3ab8bc50d590e5c69d38e8fedb61ddd55b67c5494e88ff950eddd4ff437
+hash: sha256:542eff0d702c04ae570e81268c1fd288cbf7ff0b4ef0ccb3aafc1f528fa9dfdb
